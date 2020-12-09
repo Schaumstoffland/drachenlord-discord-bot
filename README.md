@@ -17,7 +17,9 @@ Sobald der Suppengumbo auf deinem Server online ist, kannst du ihn mit `!lord` h
 
   ## Features
   ✅ mehr als 200 Soundclips
+
   ✅ mehr als 100 Zitate
+
   🎉 Überraschung alle 30-60 Minuten
 
 ![Drachenlord Chat](https://i.imgur.com/IGtD0VS.png)
@@ -27,17 +29,12 @@ Sobald der Suppengumbo auf deinem Server online ist, kannst du ihn mit `!lord` h
 
 # Befehle
 
-| Befehl | Beschreibung |
-
+| Befehl		| Beschreibung |
 | ------------- | ------------- |
-
-| `!lord` | Der Kotmidas joint in deinen VoiceChannel und schreit irgendein wirres Zeug |
-
-| `!zitat` | Der Quallemann antwortet dir mit einem Zitat seinerseits |
-
-| `!meddl` | Na was wohl |
-
-| `!id` | Zeigt dir die ID deines Text- & VoiceChannels |
+| `!lord`       | Der Kotmidas joint in deinen VoiceChannel und schreit irgendein wirres Zeug |
+| `!zitat`      | Der Quallemann antwortet dir mit einem Zitat seinerseits |
+| `!meddl`      | Na was wohl |
+| `!id`		    | Zeigt dir die ID deines Text- & VoiceChannels|
 
   
 
