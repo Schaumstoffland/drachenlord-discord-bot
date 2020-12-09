@@ -1,5 +1,5 @@
 
-# luegenlord-discord-bot
+# drachenlord-discord-bot
 
 Meddl Loide!
 

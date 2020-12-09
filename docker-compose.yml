@@ -1,6 +1,6 @@
 version: "3"
 services:
-  luegenlord:
+  drachenlord:
     build: .
     environment:
       DISCORD_API_TOKEN: <your-discord-api-token>

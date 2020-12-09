@@ -57,7 +57,6 @@ async def get_biggest_vc():
         if len(voice_channel.members) > len(voice_channel_with_most_users.members):
             voice_channel_with_most_users = voice_channel
 
-    #if logging_channel: await _log("    ⤷ checking " + voice_channel.name + ", got " + str(len(voice_channel.members)) + " users")
     if logging_channel: await _log(logtext)
     if logging_channel: await _log("    ⤷ 🏁 found biggest vc: " + voice_channel_with_most_users.name)
 
