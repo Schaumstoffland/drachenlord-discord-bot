@@ -46,7 +46,7 @@ Der Popcornpapst wird alle 30-60 Minuten (Zufallswert) auf dem VoiceChannel mit 
 Wenns dich nervt kannst du das in deiner [docker-compose.yml](./docker-compose.yml#L7) deaktivieren ;D
 
 ### TextChannel-Logging
-Zum Debuggen kannst du in deiner [docker-compose.yml](./docker-compose.yml#L7) eine TextChannel ID angeben, in den dann einige Infos geloggt werden. Um die ID eines Channels herauszufinden, kannst du `!id` benutzen.
+Zum Debuggen kannst du in deiner [docker-compose.yml](./docker-compose.yml#L8) eine TextChannel ID angeben, in den dann einige Infos geloggt werden. Um die ID eines Channels herauszufinden, kannst du `!id` benutzen.
 
 ## Docker Container starten
 As simple as: `docker-compose build && docker-compose up -d`
