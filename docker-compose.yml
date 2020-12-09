@@ -1,0 +1,8 @@
+version: "3"
+services:
+  luegenlord:
+    build: .
+    environment:
+      DISCORD_API_TOKEN: <your-discord-api-token>
+      ENABLE_RANDOM_JOINS: "True"
+      LOGGING_CHANNEL: <your-logging-textchannel-id-as-integer>
